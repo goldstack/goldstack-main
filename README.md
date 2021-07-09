@@ -1,5 +1,7 @@
 ## Goldstack - The Very Best Starter Templates 💖
 
+🚧 This repository has moved to [Goldstack](https://github.com/goldstack/goldstack) 🚧
+
 Getting started on a new project is fun ... until it isn't. Goldstack provides customizable starter templates that help you lift your project off the ground and immediately start working on the important parts.
 
 ### Goldstack Resources
